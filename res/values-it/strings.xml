@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Dynamite</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="title_activity_start">Start</string>
+    <string name="title_activity_game">Game</string>
+    
+    <string name="Credits">Credits</string>
+    <string name="creditsinfo">Dynamite 1.0.10\nDeveloped by Alessio Manai</string>
+    
+    <!-- stringhe delle consegne -->
+    <string name="marche">Marche o prodotti che iniziano con </string>
+    <string name="vips">Personaggi famosi che iniziano con </string>
+    <string name="colours">Colori che contengono </string>
+    <string name="nomiInit">Nomi che iniziano con </string>
+    <string name="wordscontengono">Parole che contengono </string>
+    <string name="wordend">Parole che finiscono con  </string>
+    <string name="wordmezzo">Parole che contengono nel mezzo </string>
+    <string name="aggettivi">Aggettivi che iniziano con </string>
+    <string name="avverbi">Avverbi che iniziano con </string>
+    <string name="wordstart">Parole che iniziano con </string>
+    <string name="states">Città, regioni o Paesi che iniziano con </string>
+    
+
+    <drawable name="shakephone">#fff</drawable>
+    <drawable name="itredd">#fff</drawable>
+    <drawable name="itdy">#fff</drawable>
+
+    <string name="title_activity_boom">Boom</string>
+    <drawable name="itboom">#fff</drawable>
+    <drawable name="ittouch">#fff</drawable>
+
+</resources>

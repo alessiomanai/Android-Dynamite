@@ -1,3 +1,6 @@
+#Dynamite for Android#
+A simple multiplayer-dictionary mini game for Android
+
     Dynamite for Android
 
     Copyright (C) 2014-2015		Alessio Manai 
